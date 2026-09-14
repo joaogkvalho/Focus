@@ -1,0 +1,85 @@
+# ==========================================
+
+# Xcode
+
+# ==========================================
+
+# User-specific Xcode settings
+
+xcuserdata/
+
+# Xcode project user data
+
+*.xcuserstate
+
+# Build
+
+build/
+DerivedData/
+
+# Archives
+
+*.xcarchive
+
+# Xcode temporary files
+
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+# ==========================================
+
+# Swift Package Manager
+
+# ==========================================
+
+.build/
+.swiftpm/
+Package.resolved
+
+# ==========================================
+
+# CocoaPods
+
+# ==========================================
+
+Pods/
+
+# Uncomment if the project uses CocoaPods
+
+# Podfile.lock
+
+# ==========================================
+
+# Carthage
+
+# ==========================================
+
+Carthage/Build/
+
+# ==========================================
+
+# Fastlane
+
+# ==========================================
+
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# ==========================================
+
+# macOS
+
+# ==========================================
+
+.DS_Store
+.AppleDouble
+.LSOv
