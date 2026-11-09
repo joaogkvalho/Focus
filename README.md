@@ -14,7 +14,7 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-    <img src=".github/preview.png" alt="Focus Preview" width="80%">
+    <img src=".github/preview.png" alt="Focus Preview" width="100%">
 </p>
 
 <h2 id="tech">💻 Technologies</h2>
