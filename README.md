@@ -11,8 +11,6 @@
     <b>A native iOS Pomodoro timer designed to help users stay focused and manage work and break cycles.</b>
 </p>
 
-<h2 id="layout">🎨 Layout</h2>
-
 <p align="center">
     <img src=".github/preview.png" alt="Focus Preview" width="100%">
 </p>
